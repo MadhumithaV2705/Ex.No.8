@@ -1,7 +1,7 @@
 # Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-**Date:** 21-05-2026
-**Reg. No.:** 212223060145
+## Date: 21-05-2026
+## Reg. No.: 212223060145
 
 ---
 
@@ -73,9 +73,8 @@ A realistic sunset landscape with purple mountains in the background, a calm ref
 ```
 
 ---
-<img width="469" height="617" alt="{134A036A-72CB-494D-BC71-2ED75C3AF3AA}" src="https://github.com/user-attachments/assets/8c04a870-753f-44c8-bdff-484e5167ac53" />
 
-<img width="475" height="624" alt="{EDE27C7F-92F2-41C5-B9AB-0047E7F92B6A}" src="https://github.com/user-attachments/assets/f1037385-9cde-4e8a-af78-3d681fc1680b" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/126a95fe-1c2f-40e7-80c2-2d75c393d254" />
 
 ## Step 5: Generated Image Observations
 
@@ -134,8 +133,7 @@ A highly realistic portrait of a fluffy white cat with striking blue eyes, detai
 ```
 
 ---
-<img width="383" height="620" alt="{3568DAB3-6F35-47CA-933F-63E677DF8935}" src="https://github.com/user-attachments/assets/570a5dad-1509-42eb-af3e-18edd0f5df0d" />
-<img width="395" height="609" alt="{0ECB5D1F-4C71-46E9-8564-C0F27CECAEC5}" src="https://github.com/user-attachments/assets/bab42b08-0e46-4a48-9dcb-4555196350b3" />
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/80d20a08-a175-479c-bb06-14a392f5ac79" />
 
 ## Step 5: Generated Image Observations
 
